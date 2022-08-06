@@ -1,0 +1,1 @@
+# Optical_text_recognition_using_PaddleOCR-v3
